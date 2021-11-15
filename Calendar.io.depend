@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1636868962 source:d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\event.c
+	"event.h"
+
+1636932561 d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\event.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+
+1636932661 source:d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\ui.c
+	"ui.h"
+
+1636930516 d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\ui.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"user.h"
+
+1636932625 d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\user.h
+	"event.h"
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1636931079 d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1636935729 source:d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\user.c
+	"user.h"
+
+1636931078 source:d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\util.c
+	"util.h"
+
+1636935596 source:d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\main.c
+	"main.h"
+
+1636931207 d:\desktop (d)\utn\cuatrimestre 2\programación y lab 2\tp final calendar.io\calendar.io\main.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"ui.h"
+	"pthread.h"
+	"user.h"
+
